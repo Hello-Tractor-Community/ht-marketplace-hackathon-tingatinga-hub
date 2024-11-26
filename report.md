@@ -12,7 +12,8 @@
 - Django
 
 ## DEMO LINK - VIA LOOM
-- LINK [https://www.loom.com/share/f1314aaf75a94179b38a82165ffaf541]
+- LINK 1 https://www.loom.com/share/f1314aaf75a94179b38a82165ffaf541?sid=206ddf62-d44c-4aea-b301-635f23a24b7d
+- LINK 2 https://www.loom.com/share/b2233bc2866b4c2ebd532ae83ac690c2?sid=d4031876-530f-465a-a4f5-bfac6e7904b4
 
 ## Key Features:
 1. **Authentication and Authorization**: Manage user access, permissions, and roles within the system.
