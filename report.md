@@ -11,6 +11,9 @@
 - Python
 - Django
 
+## DEMO LINK - VIA LOOM
+- LINK [https://www.loom.com/share/f1314aaf75a94179b38a82165ffaf541]
+
 ## Key Features:
 1. **Authentication and Authorization**: Manage user access, permissions, and roles within the system.
 2. **Addresses**: Store and manage operator or customer addresses.
