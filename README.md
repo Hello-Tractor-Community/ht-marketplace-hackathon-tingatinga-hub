@@ -16,10 +16,17 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 2. Manage Products (Add, Update, Filter and Delete)
 3. Manage Users (Update, Filter and Delete)
 4. Manage Orders (View and Process)
+5. Manage Address (CRUD Operation)
+6. Manage Job Applications (CRUD)
+7. Manage Job Posts (CRUD)
+8. Manage Dealers (CRUD, Change status)
 
 ### B. Non-Registered Users Can
 1. View Products (Can filter based on category)
 2. Explore Product Details and Related Products
+3. View & Apply for jobs
+4. Apply to be featured Dealers
+5. 
 
 
 ### C. Registered Users Can 
@@ -30,6 +37,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 6. Update Profile 
 7. Change Password
 8. Reset Password
+9. Job Application
+10. Post Products
 
 
 ## Support Developer
@@ -41,7 +50,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 ****
 
-**0743158232**
+Call/Text - **0743158232**
 
 **More infor:** E-Mail at *antonriziki@gmail.com*  
 
@@ -134,6 +143,9 @@ $ python3 manage.py runserver
 **7. Login Credentials**
 
 Create Super User (Admin)
+For quick Login
+Username: hello-tractor-admin
+Password: admin123
 
 Command for PC:
 ```
@@ -148,7 +160,7 @@ Then Add Email, Username and Password
 
 
 
-## For Sponsor or Projects Enquiry
+## For Support or Projects Enquiry
 1. Email - antonriziki@gmail.com
 2. X (formerly Twitter) - "am_tonie"  https://www.x.com/am_tonie_
 3. Tel: 0743158232
