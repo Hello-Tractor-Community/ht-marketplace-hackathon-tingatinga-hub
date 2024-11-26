@@ -1,79 +1,155 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xoeTal9p)
-# **Hello Tractor E-commerce Hackathon 🚜**
+# Django Simple E-Commerce Website with Payment
+This is a simple e-commerce website built with Django (Python).
 
-Welcome to the Hello Tractor E-commerce Hackathon! This repository is your central workspace for the challenge. Follow the structure below to organize and present your deliverables. Let’s innovate for Africa’s agricultural future!
+I've made this as a "Tractor Shop" website but you can make any website you like.
 
----
 
-## **Hackathon Overview 🌍**
+"Django Simple E-Commerce Website")
 
-### **Objective**
-Design and develop a secondary marketplace e-commerce platform for buying and selling second-hand tractors, agri-implements, and connecting with certified tractor operators.
 
-### **Key Features to Implement**
-- **Homepage**: User-friendly showcase of featured listings with filters (price, location, brand).
-- **User Registration**: Secure registration with email, phone, and social media verification.
-- **Tractor Listings**: Create detailed listings with photos, specifications, history, and price.
-- **Search & Filters**: Enable filtering by make, model, price, and location.
-- **Messaging System**: Facilitate direct communication between buyers and sellers.
-- **Seller Dashboard**: Track listing performance, inquiries, and sales.
-- **Admin Panel**: Manage listings, approve content, and ensure platform quality.
+And if you like this project then ADD a STAR ⭐️  to this project 👆
 
-### **Add-On Features**
-- **Dealer Listings**: Highlight parts and equipment suppliers.
-- **Certified Tractor Operators**: Connect tractor owners with trained operators.
+## Features of this Project
 
----
+### A. Admin Users Can
+1. Manage Category (Add, Update, Filter and Delete)
+2. Manage Products (Add, Update, Filter and Delete)
+3. Manage Users (Update, Filter and Delete)
+4. Manage Orders (View and Process)
 
-## **Deliverables Checklist ✅**
+### B. Non-Registered Users Can
+1. View Products (Can filter based on category)
+2. Explore Product Details and Related Products
 
-Please organize and complete the following deliverables within this repository:
 
-### 1. **Codebase**
-- Ensure all code is well-structured and documented.
-- Use folders for modularity and clarity. Include any configuration or setup files.
+### C. Registered Users Can 
+1. All to Non-Registered Users
+2. Add to Cart
+4. See the Order Status
+5. See Order History
+6. Update Profile 
+7. Change Password
+8. Reset Password
 
-### 2. **Demo Video**
-- Upload your video to YouTube, Vimeo, or as an mp4 file.
-- **Link to Demo Video**: [Insert your video link here]
 
-### 3. **Live Application URL**
-- Deploy your application to a platform like Vercel, Netlify, or AWS.
-- **Link to Live App**: [Insert live application URL here]
+## Support Developer
+1. GitHub Profile - https://www.github.com/antonie-riziki
+2. Add a Star 🌟  to this 👆 Repository
 
-### 4. **Technical Documentation**
-- Include setup instructions for running the project locally.
-- Provide any architecture diagrams or flowcharts explaining the design.
-- **Documentation**: Add details in a `docs/` folder or link to relevant markdown files.
 
-### 5. **Project Report**
-Complete this section in a separate ReadMe file `report.md`:
-- **Project Name**: [Insert your project name]
-- **Team Members**: [List all members and their GitHub handles]
-- **Tech Stack**: [Mention all technologies used]
-- **Key Features**: [Briefly list the implemented features]
-- **Challenges**: [Summarize major challenges faced and how they were solved]
-- **Lessons Learned**: [Highlight key takeaways from the project]
+## Donate
 
----
+****
 
-## **Submission Process 📥**
+**0743158232**
 
-1. Complete your project and ensure all deliverables are present in this repository.
-2. **Submission Deadline**: All submissions must be finalized by **Friday, Nov 22nd, 23:59 EAT**.
-3. Submit your repository by ensuring all deliverables are present in this repository and locked by the deadline.
+**More infor:** E-Mail at *antonriziki@gmail.com*  
 
----
 
-## **Important Links 🔗**
-- [Hackathon Website](https://hackathon.hellotractor.com)
-- [Hello Tractor Main Site](https://hellotractor.com)
+## How to Install and Run this project?
 
----
+### Pre-Requisites:
+1. Install Git Version Control
+[ https://git-scm.com/ ]
 
-## **Contact & Support 📞**
-For any questions, reach out via Discord. Mentors will host office hours to assist with challenges and technical support.
+2. Install Python Latest Version
+[ https://www.python.org/downloads/ ]
 
----
+3. Install Pip (Package Manager)
+[ https://pip.pypa.io/en/stable/installing/ ]
 
-**Good luck and happy hacking!** 🚀
+*Alternative to Pip is Homebrew*
+
+### Installation
+**1. Create a Folder where you want to save the project**
+
+**2. Create a Virtual Environment and Activate**
+
+Install Virtual Environment First
+```
+$  pip install virtualenv
+```
+
+Create Virtual Environment
+
+For Windows
+```
+$  python -m venv venv
+```
+For Mac
+```
+$  python3 -m venv venv
+```
+
+Activate Virtual Environment
+
+For Windows
+```
+$  source venv/scripts/activate
+```
+
+For Mac
+```
+$  source venv/bin/activate
+```
+
+**3. Clone this project**
+```
+
+
+```
+
+Then, Enter the project
+```
+$  cd hello_tractor
+```
+
+**4. Install Requirements from 'requirements.txt'**
+```python
+$  pip install -r requirements.txt
+```
+
+**5. Add the hosts**
+
+- Got to settings.py file 
+- Then, On allowed hosts, Add [‘*’]. 
+```python
+ALLOWED_HOSTS = ['*']
+```
+*No need to change on Mac.*
+
+
+**6. Now Run Server**
+
+Command for PC:
+```python
+$ python manage.py runserver
+```
+
+Command for Mac:
+```python
+$ python3 manage.py runserver
+```
+
+**7. Login Credentials**
+
+Create Super User (Admin)
+
+Command for PC:
+```
+$  python manage.py createsuperuser
+```
+
+Command for MAC:
+```
+$  python3 manage.py createsuperuser
+```
+Then Add Email, Username and Password
+
+
+
+## For Sponsor or Projects Enquiry
+1. Email - antonriziki@gmail.com
+2. X (formerly Twitter) - "am_tonie"  https://www.x.com/am_tonie_
+3. Tel: 0743158232
+
