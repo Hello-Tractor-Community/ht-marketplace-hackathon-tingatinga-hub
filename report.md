@@ -1,10 +1,10 @@
 # Hello Tractor Ecommerce Project Report
 
 ## Project Name: 
--Hello-Tractor / Tinga Tinga Hub
+- Hello-Tractor / Tinga Tinga Hub
 
 ## App Name: 
--Store
+- Store
 
 ## Team Members:
 - Antonie Shikanda - [https://www.github.com/antonie-riziki]
