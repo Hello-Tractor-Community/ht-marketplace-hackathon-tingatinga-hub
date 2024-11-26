@@ -1,8 +1,10 @@
-# Project Report
+# Hello Tractor Ecommerce Project Report
 
-## Project Name: Hello-Tractor / Tinga Tinga Hub
+## Project Name: 
+-Hello-Tractor / Tinga Tinga Hub
 
-## App Name: Store
+## App Name: 
+-Store
 
 ## Team Members:
 - Antonie Shikanda - [https://www.github.com/antonie-riziki]
@@ -17,19 +19,20 @@
 
 ## LIVE URL LINK
 - Vercel App https://ht-marketplace-hackathon-tingatinga-hub.vercel.app/
+- Note: Still experiencing some deployment issues with vercel, may or may not be live by the time of reviewing
 
 ## Key Features:
 1. **Authentication and Authorization**: Manage user access, permissions, and roles within the system.
-2. **Addresses**: Store and manage operator or customer addresses.
+2. **Addresses**: Store and manage customer addresses.
 3. **Carts**: Facilitate tracking and management of items added to the cart by users.
-4. **Categories**: Define and organize different service or product categories for better navigation.
-5. **In-app Messages**: Allow communication between users or admin notifications within the platform.
-6. **Job Applications**: Collect and manage applications submitted by tractor operators.
+4. **Categories**: Define and organize different product categories for better navigation. eg. Irrigation, Tillage
+5. **In-app Messages**: Allow communication between users or admin notifications within the platform. Usable for enquiries
+6. **Job Applications**: Collect and manage applications submitted by interested applicants.
 7. **Job Postings**: Create and display job opportunities related to tractor operations.
-8. **Orders**: Track and manage service or product orders made through the system.
-9. **Products**: Manage inventory of products or equipment available on the platform.
-10. **Skills**: Define and list specialized skills for tractor operators.
-11. **Tractor Operators**: Record and manage operator details, categories, and experience.
+8. **Orders**: Track and manage product favourites made through the system.
+9. **Products**: Manage tractors or equipment available on the ecommerce platform.
+10. **Skills**: Define and list specialized skills for tractor operators/deealers.
+11. **Tractor Operators**: Record and manage dealers details, categories, and experience.
 
 ## Challenges:
 1. **Timeline**: Limited time to develop, test, and deploy the project efficiently.
